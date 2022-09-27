@@ -1,0 +1,4 @@
+#Tue Sep 27 15:48:09 BDT 2022
+base.0=/home/mamun/Flutter Development/weatherApp/Api_Calling_in_flutter-master/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
